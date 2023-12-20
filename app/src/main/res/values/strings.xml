@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProgrammingQuiz</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="exit">Exit</string>
+    <string name="restart">Restart</string>
+    <string name="submit">Submit</string>
+</resources>
